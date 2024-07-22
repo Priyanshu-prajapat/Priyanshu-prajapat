@@ -16,17 +16,13 @@ Here are some ideas to get you started:
 
 ## Hey, I'm Priyanshu Prajapat! 👋
 
-- 🔭 I’m currently working on **College Management System with a focus on a mobile-based QR Code system is an innovative and efficient approach. By integrating QR codes, you are streamlining processes and enhancing user experience.**
-- 🌱 I’m currently learning **Android Development & Learn Java With Implement Data Structures and Algorithms(DSA).**
-- 💬 You can ask me about product development, how to turn your ideas into a startup, GCP / Cloud and Android; always happy to help 🤗
-- ⚡ Fun fact: Love plants. Currently having around 80 plants in my small apartment 🌱
+- 🔭 I’m currently working on **Frontend Developer**
+- 🌱 I’m currently learning **Creating Application with more effectiveness and efficiently and AI Integration and More in that.**
 
 [![Contact information](https://img.shields.io/badge/Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prayanshprajapat657@gmail.com)
 [![Linkedin profile URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshuprajapat/)
 
 <!-- ## What I built so far... -->
-<!-- - [couchSurvey](https://couchsurvey.com): SaaS Form & Survey Creation and Evaluation Tool (transitioned into Formbricks) --> 
-<!-- - [MCQApplication](https://github.com/DevCode88/MCQApplication-master): MCQApplication is simple MCQ desktop application build using javafx. -->
 
 ## Technologies & frameworks I love
 
