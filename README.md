@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## Hey, I'm Priyanshu Prajapat! 👋
 
-- 🔭 I’m currently working on **Frontend Developer**
+- 🔭 I’m currently working on **MERN Stack Web Development**
 - 🌱 I’m currently learning **Creating Application with more effectiveness and efficiently and AI Integration and More in that.**
 
 [![Contact information](https://img.shields.io/badge/Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prayanshprajapat657@gmail.com)
